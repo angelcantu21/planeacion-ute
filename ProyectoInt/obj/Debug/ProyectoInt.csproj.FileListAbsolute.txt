@@ -1,0 +1,72 @@
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\ProyectoInt.exe.config
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\ProyectoInt.exe
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\ProyectoInt.pdb
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.csprojResolveAssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.Form1.resources
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.Properties.Resources.resources
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.csproj.GenerateResource.Cache
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.exe
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.pdb
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.FormNext.resources
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\itextsharp.dll
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\itextsharp.xml
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.FormPDF.resources
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\PdfSharp.dll
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\PdfSharp.xml
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\PdfSharp.Charting.xml
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\claud\OneDrive\Documentos\Visual Studio 2017\Proyect\Develoment\Proyecto_Integradora\ProyectoInt\ProyectoInt\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\ProyectoInt.exe.config
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\ProyectoInt.exe
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\ProyectoInt.pdb
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\itextsharp.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\PdfSharp.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\itextsharp.xml
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\PdfSharp.xml
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\PdfSharp.Charting.xml
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.csprojResolveAssemblyReference.cache
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.Form1.resources
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.FormNext.resources
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.FormPDF.resources
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.Properties.Resources.resources
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.csproj.GenerateResource.Cache
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.exe
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.pdb
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\MySql.Data.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CapaDatos.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CapaDatos.pdb
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\es-MX\ProyectoInt.resources.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.FormPDF.es-MX.resources
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\es-MX\ProyectoInt.resources.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\stdole.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.Menu.resources
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\FlashControlV71.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\ProyectoInt\obj\Debug\ProyectoInt.Reporte.resources

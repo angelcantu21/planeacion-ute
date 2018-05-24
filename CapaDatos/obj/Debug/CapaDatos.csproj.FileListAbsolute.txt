@@ -1,0 +1,6 @@
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\CapaDatos\bin\Debug\MySql.Data.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ANGEL CANTU\Desktop\ANGELCANTU\PROJECTS\C#\Integradora\ProyectoInt\CapaDatos\obj\Debug\CapaDatos.pdb
